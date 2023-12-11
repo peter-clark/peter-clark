@@ -3,16 +3,16 @@
 
 <h4 align="Ccenter">About Me:</h4>
 Alaskan living in Barcelona, Spain. I am currently a researcher working with the Multi-Modal Interaction Lab
-at the Music Technology Group in Barcelona. I’m looking for work in these or related fields:
+at the Music Technology Group in Barcelona. I’m looking for work in these or related fields:  
+  
+**AI development/research, Data Science, Perception Engineer, Music Technology**  
 
-**AI development/research, Data Science, Perception Engineer, Music Technology**
-
---
-MSc Sound and Music Computing  (UPF)
-BSc Artificial Intelligence
-BA Philosophy of Cognitive Science (RUG)
---
-
+--  
+MSc Sound and Music Computing  (UPF)  
+BSc Artificial Intelligence  
+BA Philosophy of Cognitive Science (RUG). 
+--  
+  
 - You can reach me at **peterjosephclark1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
