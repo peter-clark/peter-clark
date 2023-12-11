@@ -1,9 +1,17 @@
 <h1 align="center">Hello, my name is Peter Clark</h1>
-<h3 align="center">AI and Python Developer / Researcher / Data Scienctist</h3>
+<h3 align="center">AI and Python Developer / Researcher / Data Scientist</h3>
 
-- I’m currently working as **a researcher with the Multi-Modal Interaction Lab at the Music Technology Group.**
+<h4 align="Ccenter">About Me:</h4>
+Alaskan living in Barcelona, Spain. I am currently a researcher working with the Multi-Modal Interaction Lab
+at the Music Technology Group in Barcelona. I’m looking for work in these or related fields:
+**AI development/research, Data Science, Perception Engineer, Music Technology**
+--
+MSc Sound and Music Computing  (UPF)
+BSc Artificial Intelligence
+BA Philosophy of Cognitive Science (RUG)
+--
 
-- I’m looking for work in **AI development, Data Science, Perception Engineer, Music Technology**
+
 
 - You can reach me at **peterjosephclark1@gmail.com**
 
