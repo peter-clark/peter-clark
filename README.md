@@ -1,5 +1,5 @@
 <h1 align="center">Hello, my name is Peter Clark</h1>
-<h3 align="center">AI and Python Developer / Researcher</h3>
+<h3 align="center">AI and Python Developer / Researcher / Data Scienctist</h3>
 
 - I’m currently working as **a researcher with the Multi-Modal Interaction Lab at the Music Technology Group.**
 
