@@ -7,10 +7,12 @@ at the Music Technology Group in Barcelona. I’m looking for work in these or r
   
 **AI development/research, Data Science, Perception Engineer, Music Technology**  
 
-Education:  
-MSc Sound and Music Computing  (UPF)  
-BSc Artificial Intelligence  
-BA Philosophy of Cognitive Science (RUG). 
+Education: 
+<ul> 
+<li>MSc Sound and Music Computing  (UPF)  </li>
+<li>BSc Artificial Intelligence  </li>
+<li>BA Philosophy of Cognitive Science (RUG).</li>
+</ul>
   
   
 - You can reach me at **peterjosephclark1@gmail.com**
