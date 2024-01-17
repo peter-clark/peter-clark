@@ -3,9 +3,9 @@
 
 <h4 align="Ccenter">About Me:</h4>
 Alaskan living in Barcelona, Spain. I am currently a researcher working with the Multi-Modal Interaction Lab
-at the Music Technology Group in Barcelona. I’m looking for work in these or related fields:  
-  
-**AI development/research, Data Science, Perception Engineer, Music Technology**  
+at the Music Technology Group in Barcelona. 
+
+I’m looking for work in these or related fields:  **AI development/research, Data Science, Perception Engineer, Music Technology**  
 
 Education: 
 <ul> 
@@ -15,7 +15,9 @@ Education:
 </ul>
   
   
-- You can reach me at **peterjosephclark1@gmail.com**
+You can reach me at **peterjosephclark1@gmail.com**
+
+Find out more about me at: peter-clark.github.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
