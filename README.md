@@ -17,7 +17,7 @@ Education:
   
 You can reach me at **peterjosephclark1@gmail.com**
 
-Find out more about me at: peter-clark.github.com
+Find out more about me at: <a href="peter-clark.github.com">peter-clark.github.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
