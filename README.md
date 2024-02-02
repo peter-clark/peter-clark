@@ -2,26 +2,26 @@
 <h3 align="center">AI and Python Developer / Researcher / Data Scientist</h3>
 
 <h4 align="Ccenter">About Me:</h4>
-Alaskan living in Barcelona, Spain. I am currently a researcher working with the Multi-Modal Interaction Lab
-at the Music Technology Group in Barcelona. 
+I am an independent researcher working with the Multi-Modal Interaction Lab
+at the Music Technology Group. While I currently reside in Barcelona, I am originally from Alaska and have lived internationally for most of my life in countries including Bhutan, Bosnia and Herzegovina, Republic of Georgia, Moldova, Netherlands, and Uruguay. I am incredibly interested in philosophy of mind, abiogenesis and the origin of complex behaviors from simple systems, the absurdity of the universe, ontologies and semiotics, and more...  
 
-I’m looking for work in these or related fields:  **AI development/research, Data Science, Perception Engineer, Music Technology**  
+I’m looking for work in these or related fields:  **AI development/research, Data Science, Perception Engineer**  
 
 Education: 
 <ul> 
-<li>MSc Sound and Music Computing  (UPF)  </li>
-<li>BSc Artificial Intelligence  </li>
-<li>BA Philosophy of Cognitive Science (RUG).</li>
+<li>MSc Sound and Music Computing  [UPF]  </li>
+<li>BSc Artificial Intelligence  [RUG]</li>
+<li>BA Philosophy of Cognitive Science [RUG].</li>
 </ul>
   
   
 You can reach me at **peterjosephclark1@gmail.com**
 
-Find out more about me at: <a href="peter-clark.github.com">peter-clark.github.com</a>
+Find out more about me at: <a href="peter-clark.github.io">peter-clark.github.io</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/peterjosephclark1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/peterjosephclark1/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ptrclrk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/peterjosephclark1/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
