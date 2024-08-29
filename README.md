@@ -29,6 +29,6 @@ You can reach me at **peterjosephclark1@gmail.com** or on LinkedIn.
 <a href="https://www.linkedin.com/in/ptrclrk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/peterjosephclark1/" height="30" width="40" /></a>
 </p>
 
-Find out more about me at: <a href="peter-clark.github.io">peter-clark.github.io</a>
+Find out more about me at: <a href="neocorax.com">neocorax.com</a>
 
 
