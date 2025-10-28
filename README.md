@@ -2,12 +2,11 @@
 <h3 align="center">AI and Python Developer / Researcher / Data Scientist</h3>
 
 <h4 align="Ccenter">About Me:</h4>
-I am an associate researcher working with the Multi-Modal Interaction Lab
-at the Music Technology Group. While I currently reside in Barcelona, I am originally from Alaska and have lived internationally for most of my life in countries including Bhutan, Bosnia and Herzegovina, Republic of Georgia, Moldova, Netherlands, and Uruguay. I am incredibly interested in philosophy of mind, abiogenesis and the origin of complex behaviors from simple systems, the absurdity of the universe, ontologies and semiotics, and more...  
-
-I’m looking for work in these or related fields:  **AI development/research, Data Science, Perception Engineer**  
+Currently studying a Masters in Physics of Complex Systems and Biophysics. Residing in Barcelona, originally from Alaska and spent most my life in countries including Bhutan, Bosnia and Herzegovina, Republic of Georgia, Moldova, Netherlands, and Uruguay. I am interested in philosophy of mind, abiogenesis, universality of complex behaviors from simple systems, the absurdity of the universe, ontologies and semiotics, yadda yadda...  
 
 <h3 align="left">Education:</h3> 
+
+&emsp; Msc Physics of Complex Systems and Biophysics [UB] (in progress)
 
 &emsp; MSc Sound and Music Computing  [UPF]  
 
