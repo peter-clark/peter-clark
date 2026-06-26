@@ -1,7 +1,7 @@
 <h1 align="center">Peter Clark</h1>
 <div align="center"><i>It is impossible to measure the change of things by time. Time is the abstraction to which we arrive at by the change of things.</i></div>
 <br>
-Currently studying a Masters in Physics of Complex Systems and Biophysics. Residing in Barcelona, originally from Alaska and spent most my life in countries including Bhutan, Bosnia and Herzegovina, Republic of Georgia, Moldova, Netherlands, and Uruguay. I am interested in philosophy of mind, abiogenesis, universality of complex behaviors from simple systems, the absurdity of the universe, ontologies and semiotics, yadda yadda...  
+a researcher working on the physics of complex systems, networks, and complexity. Currently in Barcelona.
 
 <h4 align="left">Education:</h4> 
 
